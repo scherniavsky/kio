@@ -7,6 +7,7 @@ information about an organisation’s applications.
 
 ## Download
 
+
 Releases are pushed as Docker images in the [public Docker registry](https://registry.hub.docker.com/u/stups/kio/):
 
 * Image: [stups/kio](https://registry.hub.docker.com/u/stups/kio/tags/manage/)
